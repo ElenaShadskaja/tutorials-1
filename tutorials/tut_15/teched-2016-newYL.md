@@ -1,5 +1,5 @@
 ---
-title: teched 2016 edit check
+title: teched 2016 sprint 73 edit check
 description: Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/mobile]
 primary_tag: tutorial:product/mobile
