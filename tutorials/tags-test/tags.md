@@ -23,7 +23,7 @@ Now that your IoT Services are collecting data an1d you were able to view it you
 **20 Min**.
 
 
-1. To be on the safe side go ahead and stop your `iotmms` Java application.
+1. New tag To be on the safe side go ahead and stop your `iotmms` Java application.
 
 
 2. From within the cockpit now choose Databases & Schemas and create a new SAP HANA XS Shared instance.
