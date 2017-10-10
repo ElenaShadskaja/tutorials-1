@@ -1,5 +1,5 @@
 ---
-title: tutorial for tag testing
+title: Tutorial for tag testing
 description: Part 10 of 10, Now connect your IoT Services to an SAP HANA XS shared instance and show the data using SAP HANA XS
 tags: [ tutorial>MarinaTag, tutorial>beginner ]
 primary_tag: tutorial:product/mobile
@@ -23,7 +23,7 @@ Now that your IoT Services are collecting data an1d you were able to view it you
 **20 Min**.
 
 
-1. To be on the safe side go ahead and stop your `iotmms` Java application.
+1. Updated To be on the safe side go ahead and stop your `iotmms` Java application.
 
 
 2. From within the cockpit now choose Databases & Schemas and create a new SAP HANA XS Shared instance.
