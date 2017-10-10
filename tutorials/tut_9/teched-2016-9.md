@@ -14,6 +14,7 @@ primary_tag: tutorial:product/mobile
 3. Getting starhted with the HANA Web based development workbench
 # H1 tag
 # H1 tag
+Updated
 
 [ACCORDION-BEGIN [STEP 1](Answer - 3)]
 [VALIDATE_1]
