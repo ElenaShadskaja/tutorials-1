@@ -7,12 +7,13 @@ primary_tag: tutorial:product/mobile
 
 >### New tutor
 
+Updated
+
 ## Details
 ### You will learn  
 1. How to use HANA Studio Pe1rspectives
 2. How to create a connectiodn to the gHAhNA back endddв
 3. Getting starhted with the HANA Web based development workbench
-# H1 tag
 # H1 tag
 Updated
 
