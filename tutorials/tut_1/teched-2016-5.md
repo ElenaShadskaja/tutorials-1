@@ -1,6 +1,6 @@
 ---
-title: 1.43 Test with accordion teched 2016 5
-description: new Create a Destination to allow HANA Cloud Platform to nbvread/write data
+title: 1.44 Test with accordion teched 2016 5
+description: 1.44 updated Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/mobile]
 primary_tag: tutorial:product/sapHana
 ---
