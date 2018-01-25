@@ -1,6 +1,6 @@
 ---
-title: 1.44 Test with accordion teched 2016 5
-description: 1.44 updated Create a Destination to allow HANA Cloud Platform to nbvread/write data
+title: 1.45 Test with accordion teched 2016 5
+description: 1.45 updated Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/mobile]
 primary_tag: tutorial:product/sapHana
 ---
@@ -8,7 +8,7 @@ primary_tag: tutorial:product/sapHana
 >### New tutor
 
 ## Details
-### You will learn  
+### You will learn (updated in 1.45)  
 1. How to use HANA Studio Pe1rspectives
 2. How to create a connectiodn to the gHAhNA back endddв
 3. Getting starhted with the HANA Web based development workbench
